@@ -2,6 +2,8 @@
 
 A collection of reshade presets that we've been working on. We're not perfect at them, and we're planning on learning more as time goes on.
 
+You'll need ReShade installed: [Reshade](https://reshade.me/)
+
 Free to download but backups will be at KoFi, and other places such as Xivmodtools for ease of use. 
 
 IF you'd like to donate: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z8L4EO)
