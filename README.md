@@ -16,3 +16,7 @@ Ultima Thule Inspired:
 
 Graphic Contrast:
 ![ffxiv_dx11 2024-09-18 17-39-39](https://github.com/user-attachments/assets/f450bcaa-5a2f-42c5-9289-632d2739f155)
+
+Wedding Thule:
+![WeddingThulePreset](https://github.com/user-attachments/assets/42a8468c-ba59-4554-b47e-fefc631f7674)
+
