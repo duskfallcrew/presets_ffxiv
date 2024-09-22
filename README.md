@@ -6,6 +6,8 @@ A collection of reshade presets that we've been working on. We're not perfect at
 
 You'll need ReShade installed: [Reshade](https://reshade.me/)
 
+All shaders included were downloaded from Reshade, [and it's familiar shader repositories](https://www.pcgamingwiki.com/wiki/ReShade#List_of_known_shader_repositories)
+
 IF you'd like to donate: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z8L4EO)
 
 Includes shaders, so credit to every single one that I used… Credit is at the bottom, eventually I'll add download links. Textures are NOW included because Pirate Shaders had some with. Feel free to slap me if I'm missing anything.
